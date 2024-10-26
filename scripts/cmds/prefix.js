@@ -1,4 +1,4 @@
-module.exports = {
+ module.exports = {
  config: {
          name: "prefix",
          version: "1.0",
@@ -22,7 +22,7 @@ Yo, my prefix is [ 𓆩 - 𓆪 ]\n
 ➥ ✓callad [message] -> report any problem encountered
 ➥ ✓help [command] -> information and usage of command\n\nHave fun using it enjoy!❤️\nBot Developer: https://www.facebook.com/Mdyeasin.Arafat
 Junayed`,
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/M4luPbE.gif")
+ attachment: await global.utils.getStreamFromURL("https://i.imgur.com/Zdn97z3.gif")
  });
  }
  }
