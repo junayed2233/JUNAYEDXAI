@@ -1,4 +1,4 @@
--cmd install const fs = require('fs');
+const fs = require('fs');
 
 const moment = require('moment-timezone');
 
@@ -44,11 +44,11 @@ module.exports = {
 
 		const urls = [
 
-"https://i.imgur.com/tfzAyv1.jpeg",
+"https://i.imgur.com/5LzslVf.jpeg",
+
+"https://i.imgur.com/5LzslVf.jpeg",
 
 "",
-
-"https://i.imgur.com/KfNJjFH.jpeg",
 
 ""
 
@@ -100,7 +100,7 @@ module.exports = {
 
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
 
-𝑻𝒈: https://t.me/nisan_editz
+𝑻𝒈: https://t.me/junayed69
 
 𝑰𝒏𝒔𝒕𝒂: https://www.instagram.com/junayed69
 
@@ -124,4 +124,4 @@ module.exports = {
 
 	}
 
-}; info.js
+};
