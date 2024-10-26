@@ -1,4 +1,4 @@
--cmd install module.exports = {
+module.exports = {
 
 config: {
 
